@@ -11,6 +11,13 @@ body {
 	width: 80%;
 	margin: auto;
 	border: 1px solid transparent;
+	padding-bottom: 40px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 8px#333
+	margin-bottom 20px;
+	
+	
+
 }
 
 div {
@@ -37,4 +44,9 @@ h1, h3 {
 
 .belso {
 	padding-left: 50px;
+}
+
+img {
+	width: 150px;
+	float:right;
 }
